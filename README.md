@@ -123,13 +123,9 @@ interactive-cfd-solver/
 
 Feel free to contribute additional CFD solvers or improvements to existing ones. Please ensure your code follows the same structure and includes appropriate documentation.
 
-## License
 
-[Add your preferred license here]
 
-## Contact
 
-[Add your contact information or GitHub profile]
 
 ---
 
